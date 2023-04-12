@@ -28,7 +28,7 @@ const Signup = props => {
         <Container>
             <Form>
                 <Form.Group className="mb-3">
-                    <Form.Control type="text" placeholder="Enter usename" value={username} onChange={onChangeUsername} ></Form.Control>
+                    <Form.Control type="text" placeholder="Enter username" value={username} onChange={onChangeUsername} ></Form.Control>
                 </Form.Group>
                 <Form.Group className="mb-3">
                     <Form.Control type="password" placeholder="Enter password" value={password} onChange={onChangePassword} ></Form.Control>

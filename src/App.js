@@ -118,7 +118,7 @@ function App() {
 
     <footer className='text-center text-lg-start bg-light text-muted mt-4'>
         <div className='text-center p-4'>
-        &copy; Copyriht - <a target='_blank' className='text-rest fw-bold text-decoration-none' href='htts://twitter.com/NKESHIMANACarm3'>
+        &copy; Copyrigth - <a target='_blank' className='text-rest fw-bold text-decoration-none' href='htts://twitter.com/NKESHIMANACarm3'>
             Carmel Nkeshimana
           </a> - <a target='_blank' className='text-reset fw-bold text-decoration-none' href='htts://twitter.com/IUCEA'>
             IUCEA
