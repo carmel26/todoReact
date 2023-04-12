@@ -64,7 +64,7 @@ function App() {
 
   return (
     <div className="App">
-       <Navbar bg="light" expand="lg">
+      <Navbar bg="light" expand="lg">
       <Container fluid>
         <Navbar.Brand href="/">ToDo</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
