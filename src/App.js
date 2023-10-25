@@ -118,9 +118,9 @@ function App() {
 
     <footer className='text-center text-lg-start bg-light text-muted mt-4'>
         <div className='text-center p-4'>
-        &copy; Copyright - <a target='_blank' className='text-rest fw-bold text-decoration-none' href='htts://twitter.com/NKESHIMANACarm3'>
+        &copy; Copyright - <a target='_blank' className='text-rest fw-bold text-decoration-none' href='https://twitter.com/NKESHIMANACarm3'>
             Carmel Nkeshimana
-          </a> - <a target='_blank' className='text-reset fw-bold text-decoration-none' href='htts://twitter.com/IUCEA'>
+          </a> - <a target='_blank' className='text-reset fw-bold text-decoration-none' href='https://twitter.com/IUCEA'>
             IUCEA
           </a>
         </div>
